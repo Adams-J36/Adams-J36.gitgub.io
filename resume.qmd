@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Josef Adams CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Josef Adams
+Student, Accounting Major
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,7 +13,7 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Student at Brigham Young University Idaho
 
 ### Specialized in
 
@@ -26,62 +26,44 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Bachelor of Science in Accounting	April. 2024
+Brigham Young University–Idaho	Rexburg, ID
+•	GPA: 3.22
+•	Area of interest: Tax.
+•	Student Accounting Society 2021 – Current.
+•	Emphasis in Business.
+•	Work full time and part time during school.
 
 
 
-## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+Experience
+E-Commerce Associate	Apr. 2021 – Current
+Walmart		Rexburg, ID
+•	Perform inventory management for the corporation.                                       Feb. 2020 – Apr. 2021
+•	Respond to critical thinking situations promptly to complete customer orders.   Cedar City, UT
+•	Address customers in locating products catered to their needs.
+•	Begin shifts at 5 am in the morning.
 
-- Warden
-- Minted coins
+Cashier		Nov. 2019 - Feb. 2020
+Walmart		Evanston, WY
+•	Responded to an average from 60-100 customers per day.	Apr. 2018 - Feb. 2019
+•	Maintained inventory control through customer transactions.	Rexburg, ID
+•	Helped other departments recognize issues with products.	Feb. 2018 - Apr. 2018
+•	Developed skills to recognize and address problems pertaining to asset protection.	Evanston, WY
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Customer Service Manager	Feb. 2019 - Nov. 2019
+Walmart		Rexburg, ID
+•	Managed a team of 20-50 associates.
+•	Controlled internal cash flows and performed audits on individuals.
+•	Resolved customer complaints and concerns.	
+•	Provided financial services to customers totaling from $50 - $7000.
+•	Assessed customers concerns to satisfy their right of return.
+•	Oversaw the claims process and inventory control for the company
 
 
 <!-- ### Footer
